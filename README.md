@@ -1,6 +1,6 @@
 ---
 
-## 🧠 SmartChef AI
+## SmartChef AI
 
 **Your Personal AI-Powered Recipe Assistant 🍳**
 
@@ -130,5 +130,6 @@ SmartChef will also show:
 ### 📝 License
 
 This project is open-source and free to use for educational and research purposes.
+
 
 ---
